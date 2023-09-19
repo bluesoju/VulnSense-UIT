@@ -16,7 +16,7 @@ three categories of vulnerable smart contracts.
 ![VulnSense Framework](images/Multimodal_Vulnsense.jpg)
 
 # Cite
-[@INPROCEEDINGS{Multimodal_Globecom,
+```[@INPROCEEDINGS{Multimodal_Globecom,
 AUTHOR="Le Cong Trinh and Kien Trung Vu and Hoang Minh Trinh and Quyen Huu Nguyen
 and Nghi {Hoang Khoa} and Phan The Duy and Van-Hau Pham",
 TITLE="A Multimodal Deep Learning Approach for Efficient Vulnerability Detection
@@ -43,5 +43,5 @@ in limited accuracy and effectiveness. The experimental results show that
 our proposed approach achieves superior results compared to existing
 state-of-the-art methods, demonstrating the effectiveness and potential of
 multimodal DL approaches in smart contract vulnerability detection"
-}]
+}]```
  

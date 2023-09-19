@@ -43,5 +43,5 @@ in limited accuracy and effectiveness. The experimental results show that
 our proposed approach achieves superior results compared to existing
 state-of-the-art methods, demonstrating the effectiveness and potential of
 multimodal DL approaches in smart contract vulnerability detection"
-}]```
+}]
  

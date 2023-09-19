@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Dataset/train.csv filter=lfs
+Model/VulnSense/variables/variables.data-00000-of-00001 filter=lfs
+Model/M1/variables/variables.data-00000-of-00001 filter=lfs
+Model/M2/variables/variables.data-00000-of-00001 filter=lfs
+

@@ -14,4 +14,34 @@ three categories of vulnerable smart contracts.
 
 # Multimodal in VulnSense Framework
 ![VulnSense Framework](images/Multimodal_Vulnsense.jpg)
+
+# Cite
+@INPROCEEDINGS{Multimodal_Globecom,
+AUTHOR="Le Cong Trinh and Kien Trung Vu and Hoang Minh Trinh and Quyen Huu Nguyen
+and Nghi {Hoang Khoa} and Phan The Duy and Van-Hau Pham",
+TITLE="A Multimodal Deep Learning Approach for Efficient Vulnerability Detection
+in Smart Contracts",
+BOOKTITLE="2023 IEEE Global Communications Conference: Communication \& Information
+Systems Security (Globecom 2023 CISS)",
+ADDRESS="Kuala Lumpur, Malaysia",
+PAGES=6,
+DAYS=3,
+MONTH=dec,
+YEAR=2023,
+KEYWORDS="Deep learning; Multimodal; Blockchain; Smart contract; Vulnerability
+Detection",
+ABSTRACT="In this paper, we present a comprehensive approach for efficient
+vulnerability detection in Ethereum smart contracts using a multimodal deep
+learning (DL) approach. Our proposed approach combines two levels of
+features in smart contracts, including source code, bytecode, and utilizes
+BERT and Bi-LSTM models to extract and analyze the features. The last layer
+of our multimodal approach is a fully connected layer that predicts the
+vulnerability in Ethereum smart contracts. We address the limitations of
+existing deep learning-based vulnerability detection methods for smart
+contracts, which often rely on a single type of feature or model, resulting
+in limited accuracy and effectiveness. The experimental results show that
+our proposed approach achieves superior results compared to existing
+state-of-the-art methods, demonstrating the effectiveness and potential of
+multimodal DL approaches in smart contract vulnerability detection"
+}
  
